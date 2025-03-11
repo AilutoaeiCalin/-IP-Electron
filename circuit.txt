@@ -1,0 +1,7 @@
+5 1
+2 523 432 0 10 0 Amplificator-operational 3 483 422 483 442 563 432 
+2 572 589 0 10 0 Amplificator-operational 3 532 579 532 599 612 589 
+2 787 554 0 10 0 Amplificator-operational 3 747 544 747 564 827 554 
+2 866 404 0 10 0 Amplificator-operational 3 826 394 826 414 906 404 
+2 840 262 0 10 0 Amplificator-operational 3 800 252 800 272 880 262 
+563 432 800 252

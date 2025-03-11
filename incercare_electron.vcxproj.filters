@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="piese.txt" />
+    <Text Include="POLARIZ.txt" />
+    <Text Include="AMPLOP.txt" />
+    <Text Include="CONDENS.txt" />
+    <Text Include="DIODA.txt" />
+    <Text Include="SINU.txt" />
+    <Text Include="STOP.txt" />
+    <Text Include="TRANZNPN.txt" />
+    <Text Include="TRANZPNP.txt" />
+    <Text Include="ZENNER.txt" />
+    <Text Include="NOD.txt" />
+    <Text Include="REZIST.txt" />
+    <Text Include="SERVOMOT.txt" />
+    <Text Include="BATERIE.txt" />
+    <Text Include="circuit.txt" />
+    <Text Include="circuit_salvat.txt" />
+    <Text Include="test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="wallpaper.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="wallpaper.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="wallpaper2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="wallpaper2.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="wallpaper2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="gunoi.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="x64\Debug\fonts\BionicTypeExpandedBold.ttf" />
+    <Font Include="BionicTypeExpandedBold.ttf" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+REZIST.txt
+NOD.txt
+AMPLOP.txt
+BATERIE.txt
+CONDENS.txt
+DIODA.txt
+POLARIZ.txt
+SERVOMOT.txt
+SINU.txt
+STOP.txt
+TRANZNPN.txt
+TRANZPNP.txt
+ZENNER.txt
