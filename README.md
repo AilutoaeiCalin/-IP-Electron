@@ -25,4 +25,4 @@ ctrl+z/ctrl+y -> undo/redo // din pacate e versiunea care are niste bug-uri aici
 
 click stanga apasat-> se muta piesa
 
-Bafta la Patrut!
+Bafta la IP!
