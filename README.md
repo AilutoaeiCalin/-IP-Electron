@@ -1,5 +1,5 @@
 Proiect IP FII 2024-2025 Ailutoaei Calin Prodan Alexandra
-recomandare: lucrati la proiect in VS (gasiti clipuri cum sa instalati SFML pentru Visual Studio)
+
 
 Keybinds proiect:
 
@@ -21,8 +21,8 @@ ctrl+s/ctrl+l -> se alege fisierul din care vrei sa faci save/load // fisierul t
 
 click pe 2 pini -> se face legatura
 
-ctrl+z/ctrl+y -> undo/redo // din pacate e versiunea care are niste bug-uri aici, trebuie sa le rezolvati voi
+ctrl+z/ctrl+y -> undo/redo 
 
 click stanga apasat-> se muta piesa
 
-Bafta la IP!
+
